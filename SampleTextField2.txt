@@ -1,3 +1,1 @@
-This is my file  
-
-Git revert file 1
+this is comparison lecture 2 
