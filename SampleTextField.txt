@@ -5,3 +5,4 @@ In Windows CMD, echo is one of the most commonly used commands. It’s mainly us
 
 this is comparison lecture 
 
+This is stash lecture, Change in file 1 
